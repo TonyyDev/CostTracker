@@ -1,5 +1,5 @@
 # 💰 CostTracker
-
+⭐ If you find this project interesting, feel free to explore or fork the repository.
 CostTracker is a web application designed to help users keep track of their income and expenses in one place.
 
 The project was created as a practical full-stack application to explore modern frontend and backend development, API integration, data management, and user-friendly interfaces.
@@ -26,7 +26,7 @@ CostTracker/
 └── README.md
 ```
 
-#Getting Started
+Getting Started
 ```js
 Clone the repository
 git clone https://github.com/TonyyDev/CostTracker.git
@@ -49,3 +49,6 @@ cd backend
 npm install
 npm run dev
 ```
+
+Author:
+Anthony Barquero
