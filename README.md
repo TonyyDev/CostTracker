@@ -1,5 +1,5 @@
 # 💰 CostTracker
-⭐ If you find this project interesting, feel free to explore or fork the repository.
+⭐ If you find this project interesting, feel free to explore or fork the repository and gift me a star!.
 
 CostTracker is a web application designed to help users keep track of their income and expenses in one place.
 
