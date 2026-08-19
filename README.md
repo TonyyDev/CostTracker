@@ -24,3 +24,28 @@ CostTracker/
 │   └── Backend application
 │
 └── README.md
+```
+
+#Getting Started
+```js
+Clone the repository
+git clone https://github.com/TonyyDev/CostTracker.git
+```
+
+cd CostTracker
+Frontend
+
+```js
+cd frontend
+npm install
+npm run dev
+Backend
+```
+
+Open another terminal:
+
+```js
+cd backend
+npm install
+npm run dev
+```
