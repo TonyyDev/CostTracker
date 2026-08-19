@@ -50,6 +50,7 @@ cd backend
 npm install
 npm run dev
 ```
-
-Author:
-Anthony Barquero
+```text
+Author: Anthony Barquero
+Email: thony.dev@hotmail.com
+```
